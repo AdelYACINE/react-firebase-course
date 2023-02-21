@@ -60,3 +60,6 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as AdelYACINE 
 [info] 
+[debug] [2023-02-21T16:53:35.296Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-21T16:53:36.181Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-02-21T16:53:36.181Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
